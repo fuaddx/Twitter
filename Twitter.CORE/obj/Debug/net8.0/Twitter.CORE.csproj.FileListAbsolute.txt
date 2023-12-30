@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\bin\Debug\net8.0\Twitter.CORE.deps.json
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\bin\Debug\net8.0\Twitter.CORE.dll
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\bin\Debug\net8.0\Twitter.CORE.pdb
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\obj\Debug\net8.0\Twitter.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\obj\Debug\net8.0\Twitter.CORE.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\obj\Debug\net8.0\Twitter.CORE.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\obj\Debug\net8.0\Twitter.CORE.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\obj\Debug\net8.0\Twitter.CORE.dll
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\obj\Debug\net8.0\refint\Twitter.CORE.dll
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\obj\Debug\net8.0\Twitter.CORE.pdb
+C:\Users\ASUS\source\repos\Twitter\Twitter.CORE\obj\Debug\net8.0\ref\Twitter.CORE.dll

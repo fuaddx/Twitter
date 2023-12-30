@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\bin\Debug\net8.0\Twitter.Business.deps.json
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\bin\Debug\net8.0\Twitter.Business.dll
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\bin\Debug\net8.0\Twitter.Business.pdb
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\bin\Debug\net8.0\Twitter.CORE.dll
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\bin\Debug\net8.0\Twitter.DAL.dll
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\bin\Debug\net8.0\Twitter.DAL.pdb
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\bin\Debug\net8.0\Twitter.CORE.pdb
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\Twitter.Business.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\Twitter.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\Twitter.Business.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\Twitter.Business.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\Twitter.Business.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\Twitter.Business.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\Twitter.Business.dll
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\refint\Twitter.Business.dll
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\Twitter.Business.pdb
+C:\Users\ASUS\source\repos\Twitter\Twitter.Business\obj\Debug\net8.0\ref\Twitter.Business.dll
